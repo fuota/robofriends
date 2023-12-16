@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.bedcc38c.css",
+    "main.js": "/robofriends/static/js/main.35508d31.js",
+    "static/js/787.c2cff050.chunk.js": "/robofriends/static/js/787.c2cff050.chunk.js",
+    "static/media/toys_r_us_2017_by_dledeviant_damdoei.woff": "/robofriends/static/media/toys_r_us_2017_by_dledeviant_damdoei.c6526bba4297b06a9196.woff",
+    "index.html": "/robofriends/index.html",
+    "main.bedcc38c.css.map": "/robofriends/static/css/main.bedcc38c.css.map",
+    "main.35508d31.js.map": "/robofriends/static/js/main.35508d31.js.map",
+    "787.c2cff050.chunk.js.map": "/robofriends/static/js/787.c2cff050.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedcc38c.css",
+    "static/js/main.35508d31.js"
+  ]
+}
